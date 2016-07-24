@@ -6,6 +6,7 @@
 * Description
 * Cyber Rating
 * Stars
+* Consensus
 
 ## Data
 
@@ -29,7 +30,14 @@
 * Graph
 
 ## News
-* 
+* List of news sites
+
+## Ecosystem
+* Exchanges
+* Wallets
+* Analytics
+* Mining
+* Internal Economy
 
 ## Scientific Roots
 * Whitepapers
@@ -37,6 +45,8 @@
 
 ## Developers Stuff
 * Links, mostly Github
+
+## Improve Page
 
 # /system/Ethereum — Recommendations
 
