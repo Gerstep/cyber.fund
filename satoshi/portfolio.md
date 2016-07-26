@@ -49,6 +49,8 @@
 # Research
 
 ## Current portfolio tracking tools
+
+### Done
 1. http://www.morningstar.com/
 2. https://www.google.com/finance/portfolio?action=view
 3. https://sigfig.com
@@ -56,6 +58,7 @@
 5. https://getticker.com/
 6. https://unicornbay.com/portfolio
 
+### To Do
 FinancialEngines - http://corp.financialengines.com/ (paid. has very robust financial planning and portfolio analysis tools, but focused on retirement. public company. provides advice.)
 Wikinvest - https://www.wikinvest.com/ (free. has rather deep portfolio analysis tools, supports a limited number of brokers at the time. doesn't provide advice.)
 Mint - https://www.mint.com/ (free. has very basic portfolio analysis tools and goal planning. doesn't provide advice)
@@ -66,7 +69,6 @@ Marketriders http://www.marketriders.com/
 MacroAxis http://www.macroaxis.com/
 Portfoliomonkey http://www.macroaxis.com/
 Kalengo http://www.kalengo.com/
-
 Startups in development, not yet launched:
 Blueleaf http://www.blueleaf.com/
 Optimize http://www.optimize.com/
