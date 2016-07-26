@@ -1,4 +1,4 @@
-# Ethereum — legacy /System/
+# Legacy /System/
 
 ## Main
 * Logo
@@ -46,7 +46,7 @@
 ## Developers Stuff
 * Links, mostly Github
 
-## Improve Page
+## Improve Page Link
 
 # /system/Ethereum — Recommendations
 
