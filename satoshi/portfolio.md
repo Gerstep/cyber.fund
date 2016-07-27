@@ -75,17 +75,6 @@ Optimize http://www.optimize.com/
 Jemstep https://www.jemstep.com/
 Plantly https://www.plantly.com/
 
-## Current Problems
-
-## UX logic
-
-### Entities
-
-Three levels of separate entities (Profile, Account, Portfolio) is complex and hard to understand for new users.
-
-I propose having a single cross-service **profile** (user account) with an option to have one or multiple **protfolios** which consists of one or many **assets**.
-
-
 
 
 

@@ -30,3 +30,18 @@ It seems like there is two main use cases for the portfolio part of the app:
 * (2) Follow and exlore public portfolios
 
 I propose splitting the UI composition based on the use cases above with a strong focus on analytics and recommendations in the use case (1) and focus on visualizaion and social aspects in (2).
+
+## Assets
+
+### Asset Summary
+[Imgur](http://i.imgur.com/FZvqVPW.png)
+
+### Asset Information Extended
+
+### Price Chart
+[Imgur](http://i.imgur.com/2IafUGC.png)
+
+### Price Chart Extended
+
+### News
+[Imgur](http://i.imgur.com/Tj6ZSAZ.png)
