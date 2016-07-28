@@ -8,7 +8,7 @@ As we expect more and more people and organisations to join the blockchain inves
 
 Correct approach for building high-performance cross-platfrom service would be to modularize various logical blocks on the website in order to minimize code duplication and simplify UI by unifying it.
 
-My recommendation would be to first split current /system/ page layout into contextual blocks, then come up with the most efficient way of displaying information within the block (taking into account both layout of this page and all other target pages to display a specific block). Once complete, it would make sense to create a page layout that would include required blocks based on following product goals:
+My recommendation would be to first split current **asset** and **portfolio** pages' layout into contextual blocks, then come up with design of the most elegant way of displaying information within the blocks (taking into account both layout of this page and all other target pages to display a specific block). Once complete, it would make sense to create a page layout that would include required blocks based on following product goals:
 * User target action — what do we want user to do on the page
 * Usability and ease-of-use
 * Elegance and design
