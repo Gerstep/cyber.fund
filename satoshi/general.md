@@ -22,6 +22,11 @@ Page composition should also reflect the cross-site blocks, such as list of crow
 #### How do leading financial apps display portfolio?
 
 ![Imgur](http://i.imgur.com/Rt7O1lk.png)
+![Imgur](http://i.imgur.com/F1Ja1q4.jpg)
+![Imgur](http://i.imgur.com/SLiXxFc.png)
+![Imgur](http://i.imgur.com/hkcWVOC.png)
+![Imgur](http://i.imgur.com/CJCWfYb.png)
+![Imgur](http://i.imgur.com/cxQYqo5.png)
 
 ### Recommendations
 
@@ -29,7 +34,7 @@ Page composition should also reflect the cross-site blocks, such as list of crow
 
 Three levels of separate entities (Profile, Account, Portfolio) is complex and hard to understand for new users.
 
-I propose having a single cross-service **profile** (user account) with an option to have one or multiple **protfolios** which consists of one or many **assets**.
+I propose having a single cross-service **profile** (user account) with an option to have one or multiple **portfolios** which consists of one or many **assets**.
 
 #### Editing
 
@@ -39,9 +44,9 @@ Having all portfolio editing option on the same app screen is quite heavy visual
 
 It seems like there is two main use cases for the portfolio part of the app:
 * (1) Manage and track your own crypto portfolio
-* (2) Follow and exlore public portfolios
+* (2) Follow and explore public portfolios
 
-I propose splitting the UI composition based on the use cases above with a strong focus on analytics and recommendations in the use case (1) and focus on visualizaion and social aspects in (2). Although UI difference won't affect the layout, the block composisition and order on the page should be adapted to the use case.
+I propose splitting the UI composition based on the use cases above with a strong focus on analytics and recommendations in the use case (1) and focus on visualizaion and social aspects in (2). Although UI difference won't affect the layout, the block composition and order on the page should be adapted to the use case.
 
 #### Charts
 
@@ -50,14 +55,14 @@ In order not to overload the page I'd only show one chart — pie chart with an 
 ## Assets
 
 ### Asset Summary
-[Imgur](http://i.imgur.com/FZvqVPW.png)
+![Imgur](http://i.imgur.com/FZvqVPW.png)
 
 ### Asset Information Extended
 
 ### Price Chart
-[Imgur](http://i.imgur.com/2IafUGC.png)
+![Imgur](http://i.imgur.com/2IafUGC.png)
 
 ### Price Chart Extended
 
 ### News
-[Imgur](http://i.imgur.com/Tj6ZSAZ.png)
+![Imgur](http://i.imgur.com/Tj6ZSAZ.png)
