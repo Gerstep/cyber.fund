@@ -17,19 +17,35 @@ Page composition should also reflect the cross-site blocks, such as list of crow
 
 ## Portfolio 
 
-### Entities
+### Research
+
+#### How do leading financial apps display portfolio?
+
+![Imgur](http://i.imgur.com/Rt7O1lk.png)
+
+### Recommendations
+
+#### Entities
 
 Three levels of separate entities (Profile, Account, Portfolio) is complex and hard to understand for new users.
 
 I propose having a single cross-service **profile** (user account) with an option to have one or multiple **protfolios** which consists of one or many **assets**.
 
-### Use cases
+#### Editing
+
+Having all portfolio editing option on the same app screen is quite heavy visually, so I propose taking portfolio creation and editing functionality on a separate window which might be an overlay pop-up or just a separate page.
+
+#### Use cases
 
 It seems like there is two main use cases for the portfolio part of the app:
 * (1) Manage and track your own crypto portfolio
 * (2) Follow and exlore public portfolios
 
-I propose splitting the UI composition based on the use cases above with a strong focus on analytics and recommendations in the use case (1) and focus on visualizaion and social aspects in (2).
+I propose splitting the UI composition based on the use cases above with a strong focus on analytics and recommendations in the use case (1) and focus on visualizaion and social aspects in (2). Although UI difference won't affect the layout, the block composisition and order on the page should be adapted to the use case.
+
+#### Charts
+
+In order not to overload the page I'd only show one chart — pie chart with an asset distribution in the portfolio. Performance graph is either expandable by a switch (or tab), or lives on a separate page (overlay).
 
 ## Assets
 
