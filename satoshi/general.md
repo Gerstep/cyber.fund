@@ -4,6 +4,10 @@ As we expect more and more people and organisations to join the blockchain inves
 * (1) Depth of its data and data analytics regarding various blockchain assets
 * (2) Ease of use and onboarding speed for new users
 
+### Product schema
+
+![Imgur](http://i.imgur.com/czJMnxQ.png)
+
 # Product Design
 
 Correct approach for building high-performance cross-platfrom service would be to modularize various logical blocks on the website in order to minimize code duplication and simplify UI by unifying it.
@@ -59,12 +63,24 @@ In order not to overload the page I'd only show one chart — pie chart with an 
 
 ## Assets
 
+Here's the list of blocks that must be present on a typical asset page. Since asset page is content-heavy it would make sense to experiment and iterate with a few composition options. I would also suggest to display only the most critical information in each block first and then have an option to expand it and dig deeper into the content.
+
 ### Asset Summary
+![Imgur](http://i.imgur.com/LOxkJy6.png)
 
 ### Asset Information Extended
+![Imgur](http://i.imgur.com/z6o4NwF.png)
 
 ### Price Chart
+![Imgur](http://i.imgur.com/3coWlHh.png)
 
 ### Price Chart Extended
 
-### News
+### News Summary
+![Imgur](http://i.imgur.com/tlAXSdc.png)
+
+### Rating Summary
+![Imgur](http://i.imgur.com/cbgAjIJ.png)
+
+### Ecosystem
+![Imgur](http://i.imgur.com/mfKJGuk.png)
