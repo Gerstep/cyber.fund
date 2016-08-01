@@ -32,7 +32,7 @@ Can be accessed here: <https://app.moqups.com/gershuni.stepan@gmail.com/mFmPRtv3
 
 ![Imgur](http://i.imgur.com/Rt7O1lk.png)
 ![Imgur](http://i.imgur.com/F1Ja1q4.jpg)
-![Imgur](http://i.imgur.com/SLiXxFc.png)
+![Imgur](http://i.imgur.com/h14X1B6.png)
 ![Imgur](http://i.imgur.com/hkcWVOC.png)
 ![Imgur](http://i.imgur.com/CJCWfYb.png)
 ![Imgur](http://i.imgur.com/cxQYqo5.png)
