@@ -15,6 +15,11 @@ My recommendation would be to first split current **asset** and **portfolio** pa
 
 Page composition should also reflect the cross-site blocks, such as list of crowdsales, top performers or any other highly valuable information that would increase overall engagement and depth of site exploration.
 
+# Suggestions
+
+#### Interactive mockups
+Can be accessed here: <https://app.moqups.com/gershuni.stepan@gmail.com/mFmPRtv3YD/view>
+
 ## Portfolio 
 
 ### Research
@@ -55,14 +60,11 @@ In order not to overload the page I'd only show one chart — pie chart with an 
 ## Assets
 
 ### Asset Summary
-![Imgur](http://i.imgur.com/FZvqVPW.png)
 
 ### Asset Information Extended
 
 ### Price Chart
-![Imgur](http://i.imgur.com/2IafUGC.png)
 
 ### Price Chart Extended
 
 ### News
-![Imgur](http://i.imgur.com/Tj6ZSAZ.png)
